@@ -1,6 +1,12 @@
 h1 {
-    color: #790c5a;
+    color: #cc0e74;
 }
 body {
-background-image: https://images.pexels.com/photos/47360/flowers-summer-pink-nature-47360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 ;
+background-image: url("./sunflower.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+header {
+    color: #790c5a;
 }
