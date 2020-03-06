@@ -1,7 +1,9 @@
 h1 {
     text-align: left;
     font: monospace;
-    color: #cc0e74;
+    color: #fddb3a;
+    text-decoration: underline;
+    font-size: 5vh;
 }
 body {
 background-image: url("./sunflower.jpg");
@@ -10,9 +12,11 @@ background-size: cover;
 
 }
 header {
-    color: #790c5a;
+    color: #ff80b0;
     text-align: center;
     font: italic;
     font-weight: bold;
+    text-transform: uppercase;
+    font-size: 6vh;
 
 }
