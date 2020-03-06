@@ -1,4 +1,6 @@
 h1 {
+    text-align: left;
+    font: monospace;
     color: #cc0e74;
 }
 body {
@@ -9,4 +11,8 @@ background-size: cover;
 }
 header {
     color: #790c5a;
+    text-align: center;
+    font: italic;
+    font-weight: bold;
+
 }
