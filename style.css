@@ -23,5 +23,35 @@ header {
     font-weight: bold;
     text-transform: uppercase;
     font-size: 6vh;
-
+}
+ul {
+    justify-content: center;
+    display: flexbox;
+    margin-top: 75px;
+}
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        list-style:none;
+      }
+      
+      a:link,a:visited {
+        display: block;
+        front-weight: bold;
+        color:#FFFFFF;
+        background-color: #cadb30;
+        width: 120px;
+        text-align: center;
+        padding: 10px;
+        text-transform: uppercase;
+        text-decoration: none;
+      }
+      a:hover,a:active {
+        background-color: rgb(26, 28, 153);
+      }
+      li {
+        display:inline-block;
+        float: left;
 }
